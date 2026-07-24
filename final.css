@@ -1,4 +1,7 @@
-/*BEGIN PS4 Controller Styling*/
+.ds4 {
+    opacity: 0.3 !important;
+}
+
 .controller.ds4 {
     background: url(https://iili.io/CeHTi5N.gif);
     height: 700px;
