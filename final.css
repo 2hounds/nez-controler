@@ -5,7 +5,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(https://iili.io/CedpHSj.gif);
+    background: url(https://iili.io/C8knRd7.gif);
     width: 807px;
     height: 651px;
     margin-left: 0;
@@ -16,7 +16,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(https://i.imgur.com/2YssqRT.png);
+    background: url(https://iili.io/C8knSrN.png);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -30,7 +30,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(https://iili.io/Ce2juz7.png);
+    background: url(https://iili.io/C8koX6l.png);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -60,7 +60,7 @@ body {
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
-    background: url(https://i.imgur.com/YJRVQxC.png);
+    background: url(https://iili.io/C8kzZCJ.png);
     width: 27px;
     height: 57px;
     opacity: 0;
@@ -73,7 +73,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(https://i.imgur.com/hCmzXWK.png);
+    background: url(https://iili.io/C8khhIn.png);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
@@ -105,7 +105,7 @@ body {
     left: 93px;
     top: 114px;
 } .xbox .bumper {
-    background: url(https://iili.io/CeasarF.png);
+    background: url(https://iili.io/C8k7jFs.png);
     width: 110px;
     height: 35px;
     opacity: 0;
@@ -114,7 +114,7 @@ body {
     height: 108px;
     left: 94px;
 } .xbox .trigger {
-    background: url(https://iili.io/CeasarF.png);
+    background: url(https://iili.io/C8k7boP.png);
     width: 111px;
     height: 108px;
     opacity: 0;
